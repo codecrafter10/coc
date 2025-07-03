@@ -60,6 +60,6 @@ This project is for educational purposes only. All original Clash of Clans asset
 
 🙋‍♂️ Author
 Zaid Ali
-📧 zaid@example.com
+📧 zaidali.za2635@gmail.com
 🔗 LinkedIn | Portfolio
 
