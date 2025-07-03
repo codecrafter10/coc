@@ -1,0 +1,6 @@
+sphinx
+sphinxcontrib_trio
+autodocsumm
+sphinx_rtd_theme
+orjson
+aiohttp
